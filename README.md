@@ -1,6 +1,6 @@
-# AMAD Lab 02 – Jetpack Compose
+# Compose Business Card App
 
-Android app for Lab Report 02 of Advanced Mobile Application Development (2026/2027). It covers both instructions of the lab in one project: 02.1 (Activity lifecycle, resources, layouts, Material 3) and 02.2 (state, state hoisting, forms and lists).
+AMAD Lab 02 – Jetpack Compose. Android app for Lab Report 02 of Advanced Mobile Application Development (2026/2027). It covers both instructions of the lab in one project: 02.1 (Activity lifecycle, resources, layouts, Material 3) and 02.2 (state, state hoisting, forms and lists).
 
 | Task | Screen | What it shows |
 |---|---|---|
