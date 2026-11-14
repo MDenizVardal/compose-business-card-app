@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Deniz Vardal</string>
+    <string name="job_title">Android Developer</string>
+    <string name="phone">+48 600 100 200</string>
+    <string name="email">deniz.vardal@example.com</string>
+    <string name="github">github.com/denizvardal</string>
+
+    <!-- labels of ContactRow, moved here from listing 6 (task 2.1.3) -->
+    <string name="label_phone">Phone</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_github">GitHub</string>
+
+    <!-- task 2.1.4: four quadrants -->
+    <string name="quadrant_column_title">Column</string>
+    <string name="quadrant_column_desc">Places its children one below another, from top to bottom.</string>
+    <string name="quadrant_row_title">Row</string>
+    <string name="quadrant_row_desc">Places its children one next to another, from left to right.</string>
+    <string name="quadrant_box_title">Box</string>
+    <string name="quadrant_box_desc">Stacks its children on top of each other, e.g. text on an image.</string>
+    <string name="quadrant_spacer_title">Spacer</string>
+    <string name="quadrant_spacer_desc">An empty element of a given size that adds space between others.</string>
+</resources>

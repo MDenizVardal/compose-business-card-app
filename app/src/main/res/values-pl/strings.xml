@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wizytówka</string>
+    <string name="job_title">Programista Android</string>
+    <string name="label_phone">Telefon</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_github">GitHub</string>
+</resources>
