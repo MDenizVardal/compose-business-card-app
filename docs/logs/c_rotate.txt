@@ -1,0 +1,6 @@
+11-14 18:03:27.389 D/Lifecycle( 5052): onPause
+11-14 18:03:27.428 D/Lifecycle( 5052): onStop
+11-14 18:03:27.433 D/Lifecycle( 5052): onDestroy
+11-14 18:03:27.448 D/Lifecycle( 5052): onCreate
+11-14 18:03:27.459 D/Lifecycle( 5052): onStart
+11-14 18:03:27.460 D/Lifecycle( 5052): onResume

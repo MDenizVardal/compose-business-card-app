@@ -1,0 +1,3 @@
+11-14 18:03:37.790 D/Lifecycle( 5052): onPause
+11-14 18:03:38.556 D/Lifecycle( 5052): onStop
+11-14 18:03:38.569 D/Lifecycle( 5052): onDestroy
